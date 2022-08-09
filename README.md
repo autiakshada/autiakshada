@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Akshada</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">Learner</h3>
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=autiakshada&label=Profile%20views&color=0e75b6&style=flat" alt="autiakshada" /> </p>
 
@@ -21,6 +21,7 @@
 <a href="https://twitter.com/@akshada_auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshada_auti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshada auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshada auti" height="30" width="40" /></a>
 <a href="https://instagram.com/akshada_auti02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshada_auti02" height="30" width="40" /></a>
+<a href="https://hashnode.com/@autiakshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@autiakshada" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
