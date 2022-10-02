@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **DSA, Java, HTML, CSS**
+- 🌱 I’m currently learning **DSA, Java, HTML, CSS, Python, Git & Github**
 
-- 💬 Ask me about **c**
+- 💬 Ask me about **c, Java**
 
 - 📫 How to reach me **autiakshada1405@gmail.com**
 
