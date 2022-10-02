@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@akshada_auti" target="blank"><img src="https://img.shields.io/twitter/follow/@akshada_auti?logo=twitter&style=for-the-badge" alt="@akshada_auti" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on ** Udemy Web Development Course, Git & Github **
 
-- 🌱 I’m currently learning **DSA, Java, HTML, CSS, Python, Git & Github**
+- 🌱 I’m currently learning **DSA, Java, HTML, CSS, Python**
 
-- 💬 Ask me about **c, Java**
+- 💬 Ask me about **C, Java**
 
 - 📫 How to reach me **autiakshada1405@gmail.com**
 
