@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Akshada
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Akshada!
 <h3 align="center">Learner</h3>
 
 - 🔭 I’m currently working on **Udemy Web Development Course, Git & Github**
