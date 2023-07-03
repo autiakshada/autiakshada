@@ -16,6 +16,7 @@
 <a href="https://twitter.com/@akshada_auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshada_auti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshada auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshada auti" height="30" width="40" /></a>
 <a href="https://hashnode.com/@autiakshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@autiakshada" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +26,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href = "https://git-scm.com/doc"><img src = "https://img.icons8.com/color/48/000000/git.png" alt = "Git" width = "48" height = "48"/></a>
 <img align="left" alt="GitHub" width = "48" height = "48" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ><a href = "https://code.visualstudio.com/"><img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt = "VS Code" width = "48" height = "48"/></a>
+   <a href = "https://www.mysql.com/"><img src = "https://img.icons8.com/color/48/000000/mysql-logo.png" alt = "MySQL" width = "48" height = "48"/></a>
+<a href = "https://www.jetbrains.com/idea/"><img src = "https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ" width = "48" height = "48"/></a>
+
 </p>
 
 
