@@ -2,7 +2,7 @@
 <h3 align="center">Learner</h3>
 
 - 🔭 I’m currently working on **My projects **
-- 🌱 I’m currently learning **DSA, Java, HTML, CSS, Software Testing**
+- 🌱 I’m currently learning **DSA, Java, HTML, CSS, Javascript, Software Testing**
 - 👯 I’m looking to collaborate on **Open Source in java**
 - 😄 Pronouns: She/Her
 - 📧 How to reach me: <a href="mailto:autiakshada1405@gmail.com">autiakshada1405@gmail.com</a>
