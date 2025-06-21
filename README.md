@@ -6,10 +6,12 @@
 ### 🧑‍💻 About Me
 
 - 🔍 Passionate about **Quality Assurance** and delivering bug-free user experiences  
-- 🌱 Currently learning **Selenium with Java**, **API Testing**, and improving test automation skills  
-- 🧪 Hands-on experience with **TestRail**, **Jira**, and functional testing methods  
+- 🧪 Hands-on with both **Manual Testing** and **Automation Testing**  
+- 🌱 Currently focusing on **Selenium with Java**, **API Testing**, and **Agile Methodology**  
+- 💼 Worked on **digital domain-based test scenarios** and real-time QA exercises  
+- 🤝 Familiar with **Agile practices**, including sprint planning, stand-ups, and continuous delivery  
 - 👩‍💻 Eager to contribute to **Java-based automation or QA open source projects**  
-- 📧 Reach me at: [autiakshada1405@gmail.com](mailto:autiakshada1405@gmail.com)
+- 📧 Reach me at: [autiakshada2002@gmail.com](mailto:autiakshada2002@gmail.com)
 
 ---
 
@@ -23,6 +25,7 @@
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
+  <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse IDE" width="40" height="40"/></a>
 </p>
 
 ---
