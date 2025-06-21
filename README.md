@@ -1,28 +1,27 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Akshada!
-<h3 align="center">✨ Tech Learner | Java Enthusiast | Future QA Automation Engineer ✨</h3>
+<h3 align="center">✨ Software Tester | QA Enthusiast | Java & Selenium Learner ✨</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on personal and learning projects
-- 🌱 I’m learning **Java Automation, DSA, HTML, CSS, JavaScript, Software Testing**
-- 👩‍💻 Looking to collaborate on **Java-based open source projects**
+- 🔍 Passionate about **Quality Assurance** and delivering bug-free user experiences  
+- 🌱 Currently learning **Selenium with Java**, **API Testing**, and improving test automation skills  
+- 🧪 Hands-on experience with **TestRail**, **Jira**, and functional testing methods  
+- 👩‍💻 Eager to contribute to **Java-based automation or QA open source projects**  
 - 📧 Reach me at: [autiakshada1405@gmail.com](mailto:autiakshada1405@gmail.com)
-- ⚡ Fun fact: Apart from testing and coding, I *love dancing*! 💃
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
 </p>
 
@@ -39,4 +38,4 @@
 
 ---
 
-_Thanks for stopping by! 😊_
+_Thanks for visiting my profile! Let’s build quality software together 😊_
