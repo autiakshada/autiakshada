@@ -1,36 +1,42 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Akshada!
-<h3 align="center">Learner</h3>
+<h3 align="center">✨ Tech Learner | Java Enthusiast | Future QA Automation Engineer ✨</h3>
 
-- 🔭 I’m currently working on My projects 
-- 🌱 I’m currently learning **DSA, Java, HTML, CSS, Javascript, Software Testing**
-- 👯 I’m looking to collaborate on **Open Source in java**
-- 😄 Pronouns: She/Her
-- 📧 How to reach me: <a href="mailto:autiakshada1405@gmail.com">autiakshada1405@gmail.com</a>
-- ⚡ Fun fact: Apart from programming I love dancing! 
+---
 
+### 🧑‍💻 About Me
 
+- 🔭 I’m currently working on personal and learning projects
+- 🌱 I’m learning **Java Automation, DSA, HTML, CSS, JavaScript, Software Testing**
+- 👩‍💻 Looking to collaborate on **Java-based open source projects**
+- 📧 Reach me at: [autiakshada1405@gmail.com](mailto:autiakshada1405@gmail.com)
+- ⚡ Fun fact: Apart from testing and coding, I *love dancing*! 💃
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/autiakshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="autiakshada" height="30" width="40" /></a>
-<a href="https://twitter.com/@akshada_auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshada_auti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshada auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshada auti" height="30" width="40" /></a>
-<a href="https://hashnode.com/@autiakshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@autiakshada" height="30" width="40" /></a>
- 
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href = "https://git-scm.com/doc"><img src = "https://img.icons8.com/color/48/000000/git.png" alt = "Git" width = "48" height = "48"/></a>
-<img align="left" alt="GitHub" width = "48" height = "48" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ><a href = "https://code.visualstudio.com/"><img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt = "VS Code" width = "48" height = "48"/></a>
-   <a href = "https://www.mysql.com/"><img src = "https://img.icons8.com/color/48/000000/mysql-logo.png" alt = "MySQL" width = "48" height = "48"/></a>
-<a href = "https://www.jetbrains.com/idea/"><img src = "https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ" width = "48" height = "48"/></a>
-
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
 </p>
 
+---
 
+### 🔗 Connect with Me
 
+<p align="left">
+  <a href="https://codepen.io/autiakshada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://twitter.com/akshada_auti" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/akshada-auti" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@autiakshada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
+</p>
 
+---
+
+_Thanks for stopping by! 😊_
